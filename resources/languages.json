@@ -1,0 +1,6 @@
+{
+  ".md": {"name": "Slashed Markdown", "symbol": "//"},
+  ".markdown": {"name": "Slashed Markdown", "symbol": "//"},
+  ".mdown": {"name": "Slashed Markdown", "symbol": "//"},
+  ".mkd": {"name": "Slashed Markdown", "symbol": "//"}
+}
